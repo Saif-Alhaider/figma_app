@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="user_name">Ahmed hassan</string>
+    <string name="major">Engineer</string>
+    <string name="country">Russian</string>
+    <string name="time_spent">5 Days ago</string>
+    <string name="time">3 hr</string>
+</resources>
